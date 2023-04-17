@@ -19,6 +19,6 @@ public class Contrarrelojista extends Ciclista{
 		this.velocidadMax = velocidadMax;
 	}
 	
-
+	adsgfhn
 
 }
