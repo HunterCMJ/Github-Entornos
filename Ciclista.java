@@ -26,8 +26,7 @@ public abstract class Ciclista {
 	}
 
 	
-	adsgfhn
-	
+
 	
 
 }
