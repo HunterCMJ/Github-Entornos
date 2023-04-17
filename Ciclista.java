@@ -25,9 +25,14 @@ public abstract class Ciclista {
 		return tiempoAcumuladoCarrera;
 	}
 
+<<<<<<< HEAD
 	SGDADG
 	sdgdsg
 	s<dgdsg
 	
+=======
+	
+	asjofhakssfm
+>>>>>>> rama1
 
 }
