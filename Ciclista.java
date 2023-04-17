@@ -26,6 +26,8 @@ public abstract class Ciclista {
 	}
 
 	SGDADG
+	sdgdsg
+	s<dgdsg
 	
 
 }
