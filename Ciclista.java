@@ -25,7 +25,6 @@ public abstract class Ciclista {
 		return tiempoAcumuladoCarrera;
 	}
 
-
 	
 	
 
