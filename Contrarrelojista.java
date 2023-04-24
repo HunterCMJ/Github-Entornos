@@ -6,10 +6,6 @@ public class Contrarrelojista extends Ciclista{
 	
 	 
 	
-	public String ImprimirTipo() {
-		// TODO Auto-generated method stub
-		return " Es un Contrarrelojista";
-	}
 	//Getters&Setters
 	public int getVelocidadMax() {
 		return velocidadMax;
