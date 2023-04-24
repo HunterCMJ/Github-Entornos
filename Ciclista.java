@@ -22,9 +22,7 @@ public abstract class Ciclista {
 		return nombre;
 	}
 
-	public int getTiempoAcumuladoCarrera() {
-		return tiempoAcumuladoCarrera;
-	}
+	
 
 	
 	
