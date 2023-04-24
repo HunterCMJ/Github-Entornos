@@ -13,6 +13,19 @@ public abstract class Ciclista {
 	public abstract String ImprimirTipo();
 	
 
+	//Getter&Setters
+	public int getIdentificador() {
+		return identificador;
+	}
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public int getTiempoAcumuladoCarrera() {
+		return tiempoAcumuladoCarrera;
+	}
+
 	
 	
 
