@@ -25,9 +25,4 @@ public abstract class Ciclista {
 		return nombre;
 	}
 
-	sdgdzhzdffg
-
-	
-	
-
 }
