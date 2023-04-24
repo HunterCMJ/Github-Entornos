@@ -21,8 +21,10 @@ public abstract class Ciclista {
 	public String getNombre() {
 		return nombre;
 	}
-
-	public int getTiempoAcumuladoCarrera() {
+	
+	iuguohijòk
+		
+	puic int getTiempoAcumuladoCarrera() {
 		return tiempoAcumuladoCarrera;
 	}
 
