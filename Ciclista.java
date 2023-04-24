@@ -22,9 +22,9 @@ public abstract class Ciclista {
 		return nombre;
 	}
 	
-	iuguohijòk
+
 		
-	puic int getTiempoAcumuladoCarrera() {
+	public int getTiempoAcumuladoCarrera() {
 		return tiempoAcumuladoCarrera;
 	}
 
