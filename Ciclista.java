@@ -11,7 +11,7 @@ public abstract class Ciclista {
 	}
 	//metodos abstractos
 	public abstract String ImprimirTipo();
-	
+		return "Ciclista"
 
 	//Getter&Setters
 	public int getIdentificador() {
@@ -24,5 +24,7 @@ public abstract class Ciclista {
 	public String getNombre() {
 		return nombre;
 	}
+	
+
 
 }
