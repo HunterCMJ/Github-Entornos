@@ -14,14 +14,5 @@ public class Escalador extends Ciclista {
 
 
 
-	public void setAceleracionMedia(float aceleracionMedia) {
-		this.aceleracionMedia = aceleracionMedia;
-	}
-
-
-	public void setGradoRampa(float gradoRampa) {
-		this.gradoRampa = gradoRampa;
-	}
-
 
 }
