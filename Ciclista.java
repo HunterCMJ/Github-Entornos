@@ -17,18 +17,12 @@ public abstract class Ciclista {
 	public int getIdentificador() {
 		return identificador;
 	}
-
-	public String getNombre() {
-		return nombre;
-	}
-	
-
-		
 	public int getTiempoAcumuladoCarrera() {
 		return tiempoAcumuladoCarrera;
 	}
 
-	
-	
+	public String getNombre() {
+		return nombre;
+	}
 
 }
